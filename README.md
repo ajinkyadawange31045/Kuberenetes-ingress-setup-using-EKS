@@ -64,9 +64,8 @@ Note: It will generate LBR DNS
 
 - Create Ingress kind with rules 
 
-============================
-Path Based Routing
-============================
+
+**Path Based Routing**
 
 ```bash
  vi ingress-rules2-routes.yml
